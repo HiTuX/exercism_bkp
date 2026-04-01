@@ -1,2 +1,3 @@
-# exercism_bkp
-My solutions to exercism track
+# Exercism track solutions
+Just playing and having fun, nothing serious!
+
